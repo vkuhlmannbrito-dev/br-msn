@@ -10,5 +10,5 @@ if nome.find('Silva') != -1:
 else:
     print('Burguês safadin')
 #STR
-nu=str(input("Digite seu nome: ")).strip()
+nu=str(input("Digite seu nome meu chapa: ")).strip()
 print('silva' in nu.lower())
