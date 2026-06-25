@@ -8,7 +8,7 @@ nome=input("Digite o seu nome: ")
 if nome.find('Silva') != -1:
     print('Tu é br mesmo mermão')
 else:
-    print('Burguês safado')
+    print('Burguês safadin')
 #STR
 nu=str(input("Digite seu nome: ")).strip()
 print('silva' in nu.lower())
